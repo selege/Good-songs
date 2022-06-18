@@ -17,12 +17,12 @@ Just the name of music and movie!
 
 
 
-# Example. 
+# Example
 1. Young and Beautiful - The Great Gatsby
 ![20140216-131646](https://user-images.githubusercontent.com/107686023/174292440-4875dd06-6ef2-4236-93b4-06b1b0268aa7.jpg)
 
 
-# List of Hobby
+# List
 1. Young and Beautiful - The Great Gatsby
 
 2. Ninelie - KABANERI OF THE IRON FORTRESS
