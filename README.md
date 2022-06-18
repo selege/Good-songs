@@ -25,4 +25,5 @@ What is your favorite English/Japanese word?
 4. ほっとする
 5. try
 6. crisps
-7. Supercalifragilisticexpialidocious
+7. 最高
+8. Supercalifragilisticexpialidocious
