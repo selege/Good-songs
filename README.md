@@ -28,4 +28,6 @@ ex : ) Russian
 2. Korean
 3. English
 4. Japanese
+5. Spanish
+6. Italian
 
