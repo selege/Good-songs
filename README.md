@@ -24,5 +24,9 @@ Just the name of music and movie!
 
 # List of Hobby
 1. Young and Beautiful - The Great Gatsby
-2. KN33S0XXX - 精霊剣舞祭
-3.
+
+2. Ninelie - KABANERI OF THE IRON FORTRESS
+
+3. Dacing Queen -Abba
+
+4. KN33S0XXX - 精霊剣舞祭
