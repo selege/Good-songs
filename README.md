@@ -31,4 +31,7 @@ ex : ) Russian
 5. Spanish
 6. Italian
 7. Chinese
+8. Vietnamese
+9. Arabic
+
 
