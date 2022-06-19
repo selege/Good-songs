@@ -28,3 +28,4 @@ What is your favorite English/Japanese word?
 7. Supercalifragilisticexpialidocious
 8. Practice
 9. 最高
+10. Great
