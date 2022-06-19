@@ -28,4 +28,5 @@ Example
 ・宇多田ヒカル 'One Last Kiss'  
 
 # List of Hobby
-1. GReeeeN 'Green boys'
+1. GReeeeN 'Green boys'<br>
+2. All stars 'We are the world'<br>   
