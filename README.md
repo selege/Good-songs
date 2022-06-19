@@ -27,7 +27,7 @@ Send me a Pull Request!
 4. Chocolate
 5. Sushi
 6. Mackerel misoni boiled (鯖の味噌煮) 
-7.
+7. Candy
 8.
 9.
 10.
