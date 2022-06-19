@@ -30,4 +30,6 @@ ex : ) Russian
 4. Japanese
 5. Spanish
 6. Italian
-7. Arabic
+7. Vietnamese
+8. Arabic
+
