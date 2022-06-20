@@ -43,4 +43,10 @@ To do a contribution copy below "0." line and edit it to your favorite model (li
 5. I know nothing about this field, but somehow interested nowaday. </br>
 6. Honda CBR1000RR-R Fireblade SP </br>
 7. SR400 </br>
+
 8. Ferrari 900 </br>
+
+8. YZF-R1('97~'01) ![Yamaha_YZF_R1_2001](https://user-images.githubusercontent.com/69418560/174502130-9aa44548-e6d9-4c69-a9b3-8a1000268a84.jpg) </br
+9. Vespa </br>
+10. Honda Dunk </br>
+11. Ferrari 900 </br>
