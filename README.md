@@ -47,3 +47,4 @@ Choices
 - Freestlye
 - None
 - Butterfly
+- Crawl
