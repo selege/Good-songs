@@ -50,3 +50,4 @@ To do a contribution copy below "0." line and edit it to your favorite model (li
 9. Vespa </br>
 10. Honda Dunk </br>
 11. Ferrari 900 </br>
+12. Katana
