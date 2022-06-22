@@ -35,3 +35,4 @@ Please tell us your favorite/recommended ice cream flavor! 🍦🍦🍦
 10. Stawbeery </br>
 11. Macadamia nuts</br>
 12. Apple </br>
+13. Chocolate</br>
