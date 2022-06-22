@@ -48,3 +48,4 @@ Choices
 - None
 - Butterfly
 - Crawl
+- Backstroke
